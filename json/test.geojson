@@ -11,6 +11,8 @@
        },
        "properties": {
          "marker-symbol": "fire-station",
+		 "marker-size": "small",
+		 "marker-color": "ff0000",
          "address": "13250 ALTADENA RD "
 		 
       }

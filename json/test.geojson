@@ -10,7 +10,7 @@
           ]
        },
        "properties": {
-         "marker-symbol": "building",
+         "marker-symbol": "fire-station",
          "address": "13250 ALTADENA RD "
 		 
       }
@@ -27,6 +27,7 @@
        "properties": {
 		 "marker-symbol": "bar",
 		 "marker-size": "large",
+		 "marker-color": "ff0000",
          "address": "13260 ALTADENA RD "
       }
     }

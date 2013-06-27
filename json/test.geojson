@@ -26,6 +26,7 @@
        },
        "properties": {
 		 "marker-symbol": "bar",
+		 "marker-size": "large",
          "address": "13260 ALTADENA RD "
       }
     }

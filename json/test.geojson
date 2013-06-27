@@ -10,9 +10,9 @@
           ]
        },
        "properties": {
-         "marker-symbol": building,
-         "marker-size": small,
-         "marker-color": #FF0000,
+         "marker-symbol": "building",
+         "marker-size": "small",
+         "marker-color": "#FF0000",
          "address": "13250 ALTADENA RD "
 		 
       }
@@ -27,9 +27,9 @@
           ]
        },
        "properties": {
-         "marker-symbol": building,
-         "marker-size": small,
-         "marker-color": #FF0000,
+         "marker-symbol": "building",
+         "marker-size": "small",
+         "marker-color": "#FF0000",
          "address": "13260 ALTADENA RD "
       }
     }
